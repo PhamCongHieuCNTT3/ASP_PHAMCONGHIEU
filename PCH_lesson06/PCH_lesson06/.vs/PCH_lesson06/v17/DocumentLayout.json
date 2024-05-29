@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\exercise\\BaiTapVS\\LS_PhamCongHieu_ASP\\ASPNET_PCH\\PCH_lesson06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD223C09-962A-452B-B49A-7032DF08BF13}|PCH_lesson06\\PCH_lesson06.csproj|c:\\exercise\\baitapvs\\ls_PhamCongHieu_asp\\aspnet_PCH\\PCH_lesson06\\PCH_lesson06\\controllers\\PCHsongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD223C09-962A-452B-B49A-7032DF08BF13}|PCH_lesson06\\PCH_lesson06.csproj|solutionrelative:PCH_lesson06\\controllers\\PCHsongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD223C09-962A-452B-B49A-7032DF08BF13}|PCH_lesson06\\PCH_lesson06.csproj|c:\\exercise\\baitapvs\\ls_PhamCongHieu_asp\\aspnet_PCH\\PCH_lesson06\\PCH_lesson06\\views\\PCHsong\\PCHcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD223C09-962A-452B-B49A-7032DF08BF13}|PCH_lesson06\\PCH_lesson06.csproj|solutionrelative:PCH_lesson06\\views\\PCHsong\\PCHcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD223C09-962A-452B-B49A-7032DF08BF13}|PCH_lesson06\\PCH_lesson06.csproj|c:\\exercise\\baitapvs\\ls_PhamCongHieu_asp\\aspnet_PCH\\PCH_lesson06\\PCH_lesson06\\models\\PCHsong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD223C09-962A-452B-B49A-7032DF08BF13}|PCH_lesson06\\PCH_lesson06.csproj|solutionrelative:PCH_lesson06\\models\\PCHsong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD223C09-962A-452B-B49A-7032DF08BF13}|PCH_lesson06\\PCH_lesson06.csproj|c:\\exercise\\baitapvs\\ls_PhamCongHieu_asp\\aspnet_PCH\\PCH_lesson06\\PCH_lesson06\\views\\PCHsong\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD223C09-962A-452B-B49A-7032DF08BF13}|PCH_lesson06\\PCH_lesson06.csproj|solutionrelative:PCH_lesson06\\views\\PCHsong\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD223C09-962A-452B-B49A-7032DF08BF13}|PCH_lesson06\\PCH_lesson06.csproj|c:\\exercise\\baitapvs\\ls_PhamCongHieu_asp\\aspnet_PCH\\PCH_lesson06\\PCH_lesson06\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD223C09-962A-452B-B49A-7032DF08BF13}|PCH_lesson06\\PCH_lesson06.csproj|solutionrelative:PCH_lesson06\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD223C09-962A-452B-B49A-7032DF08BF13}|PCH_lesson06\\PCH_lesson06.csproj|c:\\exercise\\baitapvs\\ls_PhamCongHieu_asp\\aspnet_PCH\\PCH_lesson06\\PCH_lesson06\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD223C09-962A-452B-B49A-7032DF08BF13}|PCH_lesson06\\PCH_lesson06.csproj|solutionrelative:PCH_lesson06\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD223C09-962A-452B-B49A-7032DF08BF13}|PCH_lesson06\\PCH_lesson06.csproj|c:\\exercise\\baitapvs\\ls_PhamCongHieu_asp\\aspnet_PCH\\PCH_lesson06\\PCH_lesson06\\controllers\\PCHhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD223C09-962A-452B-B49A-7032DF08BF13}|PCH_lesson06\\PCH_lesson06.csproj|solutionrelative:PCH_lesson06\\controllers\\PCHhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PCHCreate.cshtml",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_PhamCongHieu_ASP\\ASPNET_PCH\\PCH_lesson06\\PCH_lesson06\\Views\\PCHSong\\PCHCreate.cshtml",
+              "RelativeDocumentMoniker": "PCH_lesson06\\Views\\PCHSong\\PCHCreate.cshtml",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_PhamCongHieu_ASP\\ASPNET_PCH\\PCH_lesson06\\PCH_lesson06\\Views\\PCHSong\\PCHCreate.cshtml",
+              "RelativeToolTip": "PCH_lesson06\\Views\\PCHSong\\PCHCreate.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T03:34:10.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_PhamCongHieu_ASP\\ASPNET_PCH\\PCH_lesson06\\PCH_lesson06\\Views\\PCHSong\\Index.cshtml",
+              "RelativeDocumentMoniker": "PCH_lesson06\\Views\\PCHSong\\Index.cshtml",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_PhamCongHieu_ASP\\ASPNET_PCH\\PCH_lesson06\\PCH_lesson06\\Views\\PCHSong\\Index.cshtml",
+              "RelativeToolTip": "PCH_lesson06\\Views\\PCHSong\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T03:30:12.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PCHSongController.cs",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_PhamCongHieu_ASP\\ASPNET_PCH\\PCH_lesson06\\PCH_lesson06\\Controllers\\PCHSongController.cs",
+              "RelativeDocumentMoniker": "PCH_lesson06\\Controllers\\PCHSongController.cs",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_PhamCongHieu_ASP\\ASPNET_PCH\\PCH_lesson06\\PCH_lesson06\\Controllers\\PCHSongController.cs",
+              "RelativeToolTip": "PCH_lesson06\\Controllers\\PCHSongController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAlwBcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:24:58.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PCHSong.cs",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_PhamCongHieu_ASP\\ASPNET_PCH\\PCH_lesson06\\PCH_lesson06\\Models\\PCHSong.cs",
+              "RelativeDocumentMoniker": "PCH_lesson06\\Models\\PCHSong.cs",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_PhamCongHieu_ASP\\ASPNET_PCH\\PCH_lesson06\\PCH_lesson06\\Models\\PCHSong.cs",
+              "RelativeToolTip": "PCH_lesson06\\Models\\PCHSong.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:22:20.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_PhamCongHieu_ASP\\ASPNET_PCH\\PCH_lesson06\\PCH_lesson06\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PCH_lesson06\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_PhamCongHieu_ASP\\ASPNET_PCH\\PCH_lesson06\\PCH_lesson06\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PCH_lesson06\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T03:21:58.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_PhamCongHieu_ASP\\ASPNET_PCH\\PCH_lesson06\\PCH_lesson06\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "PCH_lesson06\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_PhamCongHieu_ASP\\ASPNET_PCH\\PCH_lesson06\\PCH_lesson06\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "PCH_lesson06\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:21:51.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PCHHomeController.cs",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_PhamCongHieu_ASP\\ASPNET_PCH\\PCH_lesson06\\PCH_lesson06\\Controllers\\PCHHomeController.cs",
+              "RelativeDocumentMoniker": "PCH_lesson06\\Controllers\\PCHHomeController.cs",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_PhamCongHieu_ASP\\ASPNET_PCH\\PCH_lesson06\\PCH_lesson06\\Controllers\\PCHHomeController.cs",
+              "RelativeToolTip": "PCH_lesson06\\Controllers\\PCHHomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:21:37.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

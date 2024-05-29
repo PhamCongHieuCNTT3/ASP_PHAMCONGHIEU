@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_PCH\\PCH_Lab05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|PCH_Lab05\\PCH_Lab05.csproj|c:\\exercise\\baitapvs\\ls_lehoanglong_asp\\aspnet_PCH\\PCH_lab05\\PCH_lab05\\controllers\\PCHmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|PCH_Lab05\\PCH_Lab05.csproj|solutionrelative:PCH_lab05\\controllers\\PCHmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|PCH_Lab05\\PCH_Lab05.csproj|C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_PCH\\PCH_Lab05\\PCH_lab05\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|PCH_Lab05\\PCH_Lab05.csproj|solutionrelative:PCH_lab05\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|PCH_Lab05\\PCH_Lab05.csproj|C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_PCH\\PCH_Lab05\\PCH_lab05\\models\\PCHmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|PCH_Lab05\\PCH_Lab05.csproj|solutionrelative:PCH_lab05\\models\\PCHmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|PCH_Lab05\\PCH_Lab05.csproj|C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_PCH\\PCH_Lab05\\PCH_lab05\\controllers\\PCHhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|PCH_Lab05\\PCH_Lab05.csproj|solutionrelative:PCH_lab05\\controllers\\PCHhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|PCH_Lab05\\PCH_Lab05.csproj|C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_PCH\\PCH_Lab05\\PCH_lab05\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|PCH_Lab05\\PCH_Lab05.csproj|solutionrelative:PCH_lab05\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|PCH_Lab05\\PCH_Lab05.csproj|C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_PCH\\PCH_Lab05\\PCH_lab05\\views\\PCHmember\\PCHcreatetwo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|PCH_Lab05\\PCH_Lab05.csproj|solutionrelative:PCH_lab05\\views\\PCHmember\\PCHcreatetwo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|PCH_Lab05\\PCH_Lab05.csproj|C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_PCH\\PCH_Lab05\\PCH_lab05\\views\\PCHmember\\PCHcreateone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|PCH_Lab05\\PCH_Lab05.csproj|solutionrelative:PCH_lab05\\views\\PCHmember\\PCHcreateone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|PCH_Lab05\\PCH_Lab05.csproj|C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_PCH\\PCH_Lab05\\PCH_lab05\\views\\PCHmember\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|PCH_Lab05\\PCH_Lab05.csproj|solutionrelative:PCH_lab05\\views\\PCHmember\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PCHCreateTwo.cshtml",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_PCH\\PCH_Lab05\\PCH_Lab05\\Views\\PCHMember\\PCHCreateTwo.cshtml",
+              "RelativeDocumentMoniker": "PCH_Lab05\\Views\\PCHMember\\PCHCreateTwo.cshtml",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_PCH\\PCH_Lab05\\PCH_Lab05\\Views\\PCHMember\\PCHCreateTwo.cshtml",
+              "RelativeToolTip": "PCH_Lab05\\Views\\PCHMember\\PCHCreateTwo.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAuwDMAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T03:02:29.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PCHMemberController.cs",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_PCH\\PCH_Lab05\\PCH_Lab05\\Controllers\\PCHMemberController.cs",
+              "RelativeDocumentMoniker": "PCH_Lab05\\Controllers\\PCHMemberController.cs",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_PCH\\PCH_Lab05\\PCH_Lab05\\Controllers\\PCHMemberController.cs",
+              "RelativeToolTip": "PCH_Lab05\\Controllers\\PCHMemberController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAhwCQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T02:32:05.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PCHMember.cs",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_PCH\\PCH_Lab05\\PCH_Lab05\\Models\\PCHMember.cs",
+              "RelativeDocumentMoniker": "PCH_Lab05\\Models\\PCHMember.cs",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_PCH\\PCH_Lab05\\PCH_Lab05\\Models\\PCHMember.cs",
+              "RelativeToolTip": "PCH_Lab05\\Models\\PCHMember.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowB0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T02:19:00.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_PCH\\PCH_Lab05\\PCH_Lab05\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PCH_Lab05\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_PCH\\PCH_Lab05\\PCH_Lab05\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PCH_Lab05\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T02:16:35.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_PCH\\PCH_Lab05\\PCH_Lab05\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "PCH_Lab05\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_PCH\\PCH_Lab05\\PCH_Lab05\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "PCH_Lab05\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T02:16:21.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PCHHomeController.cs",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_PCH\\PCH_Lab05\\PCH_Lab05\\Controllers\\PCHHomeController.cs",
+              "RelativeDocumentMoniker": "PCH_Lab05\\Controllers\\PCHHomeController.cs",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_PCH\\PCH_Lab05\\PCH_Lab05\\Controllers\\PCHHomeController.cs",
+              "RelativeToolTip": "PCH_Lab05\\Controllers\\PCHHomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T02:16:06.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PCHCreateOne.cshtml",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_PCH\\PCH_Lab05\\PCH_Lab05\\Views\\PCHMember\\PCHCreateOne.cshtml",
+              "RelativeDocumentMoniker": "PCH_Lab05\\Views\\PCHMember\\PCHCreateOne.cshtml",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_PCH\\PCH_Lab05\\PCH_Lab05\\Views\\PCHMember\\PCHCreateOne.cshtml",
+              "RelativeToolTip": "PCH_Lab05\\Views\\PCHMember\\PCHCreateOne.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAuwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T02:50:49.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_PCH\\PCH_Lab05\\PCH_Lab05\\Views\\PCHMember\\Details.cshtml",
+              "RelativeDocumentMoniker": "PCH_Lab05\\Views\\PCHMember\\Details.cshtml",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_PCH\\PCH_Lab05\\PCH_Lab05\\Views\\PCHMember\\Details.cshtml",
+              "RelativeToolTip": "PCH_Lab05\\Views\\PCHMember\\Details.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T02:46:58.299Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
